@@ -29,6 +29,7 @@ npm -g install vue-cli
 - [`bulma.min.css`](https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css)
 - [`animate.min.css`](https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css)
 - [`db.json`](https://mega.nz/#!V41kkB5T!5zvBvVrGO49vUvVtyzY5oGPgEFD5xeDSn5mIsVBHfUA)
+- [`mysql.northwind.sql`](https://mega.nz/#!8hNXwYha!zRJfxgIA9ruWf6DifmoR9hYGTJmXnjOOq--_GAPdrwQ)
 
 ### Snippet
 

@@ -23,7 +23,7 @@
 </body>
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [ 'ui.router' ])
@@ -31,7 +31,7 @@ angular.module('app', [ 'ui.router' ])
 
 ### Router & State
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [ 'ui.router' ])
@@ -74,7 +74,7 @@ angular.module('app', [ 'ui.router' ])
 </head>
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function($locationProvider) {
@@ -90,7 +90,7 @@ angular.module('app', [ 'ui.router' ])
 <h3>Home</h3>
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function($stateProvider, $urlRouterProvider) {
@@ -104,7 +104,7 @@ angular.module('app', [ 'ui.router' ])
 
 ### Router & Controller
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function($stateProvider, $urlRouterProvider) {
@@ -122,7 +122,7 @@ angular.module('app', [ 'ui.router' ])
 
 ### Parametered Route
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function($stateProvider, $urlRouterProvider) {
@@ -146,7 +146,7 @@ angular.module('app', [ 'ui.router' ])
 
 ### Router Guard
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function($stateProvider, $urlRouterProvider) {

@@ -23,7 +23,7 @@ angular.module('app', [])
 angular.module('app')
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 // setter
@@ -34,7 +34,7 @@ angular.module('app', [ 'ui.router' ])
     })
 ```
 
-*public/js/route.js*
+*public/route.js*
 
 ```js
 // getter
@@ -55,14 +55,14 @@ angular.module('app')
 
 ### Module Dependency
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 // setter
 angular.module('app', [ 'ui.router', 'customer' ])
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 // setter

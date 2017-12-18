@@ -2,7 +2,7 @@
 
 ### `<form>`
 
-*public/js/app.min.js*
+*public/app.js*
 
 ```js
 .controller('HomeController', function($scope) {

@@ -14,7 +14,7 @@
 json-server db.json
 ```
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -36,7 +36,7 @@ angular.module('app', [])
 
 ### `$http` & Factory
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .factory('CustomerFactory', function($http, API) {
@@ -60,7 +60,7 @@ angular.module('app', [])
 
 ### `$http` & `POST` Request
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .factory('SupplierFactory', function($http, API) {
@@ -84,7 +84,7 @@ angular.module('app', [])
 
 ### Authentication
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .service('Auth', function($http) {

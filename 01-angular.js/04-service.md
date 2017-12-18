@@ -10,7 +10,7 @@
 
 ### `.value()` & `.constant()`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -26,7 +26,7 @@ angular.module('app', [])
 
 ### `.service()`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -46,7 +46,7 @@ angular.module('app', [])
 
 ### `.factory()`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -65,7 +65,7 @@ angular.module('app', [])
 
 ### `.provider()`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .provider('vat', function() {
@@ -93,7 +93,7 @@ angular.module('app', [])
 
 ### `.provider()` & Configuration
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .config(function(vatProvider) {

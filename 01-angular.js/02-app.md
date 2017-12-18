@@ -10,7 +10,7 @@
 ```
 
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -27,7 +27,7 @@ angular.module('app', [])
 
 ### `.run()`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -40,7 +40,7 @@ angular.module('app', [])
 
 > AngularJS Controller defines **scope** of variables
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 angular.module('app', [])
@@ -59,7 +59,7 @@ angular.module('app', [])
 
 ### `$scope`
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 // dependency injection
@@ -81,7 +81,7 @@ angular.module('app', [])
 
 ### Controller Function
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .controller('HomeController', function($scope) {
@@ -101,7 +101,7 @@ angular.module('app', [])
 
 ### `ng-repeat` Filter
 
-*public/js/app.js*
+*public/app.js*
 
 ```js
 .controller('HomeController', function($scope) {

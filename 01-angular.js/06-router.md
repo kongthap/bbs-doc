@@ -60,7 +60,7 @@ angular.module('app', [ 'ui.router' ])
 *public/index.html*
 
 ```html
-<div ng-include="navbar.html"></div>
+<div ng-include="'navbar.html'"></div>
 <ui-view></ui-view>
 ```
 

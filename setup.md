@@ -2,6 +2,11 @@
 
 [ติดตั้งโปรแกรม](https://gist.github.com/tutor4dev/dd4d48872798ecbd09ad8454e4719518)
 
+### Contact
+
+- LINE ID: jeud
+- Facebook: @kongthap.thammachat
+
 ### Visual Studio Code Extensions
 
 - Babel JavaScript

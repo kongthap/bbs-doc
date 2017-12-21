@@ -1,5 +1,27 @@
 ## Chapter 01
 
+### VS Code
+
+*Settings*
+
+```json
+{
+    "emmet.excludeLanguages": [],
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.syntaxProfiles": {
+        "blade": "html",
+        "javascript": "html",
+        "html": {
+            "self_closing_tag": false,
+            "tag_case": "lower"
+        },
+        "vue": {},
+        "xml": {}
+    },
+    "emmet.triggerExpansionOnTab": true
+}
+```
+
 ### Setup
 
 *Terminal*

@@ -8,7 +8,7 @@
 
 ```
 |-package.json
-|-*webpack.config.js*
+|-webpack.config.js
 |-.babelrc
 +-public
 |   |-index.html
